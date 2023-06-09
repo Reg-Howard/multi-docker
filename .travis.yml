@@ -27,7 +27,7 @@ deploy:
   provider: elasticbeanstalk
   region: 'us-east-1'
   app: 'complex-multi-docker'
-  env: 'complex-multi-docker-env'
+  env: 'Complex-multi-docker-env'
   bucket_name: 'elasticbeanstalk-us-east-1-862608177497'
   bucket_path: 'complex-multi-docker'
   on:
